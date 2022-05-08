@@ -1,89 +1,83 @@
-body{
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-header{
-background-color: #f5ece7;
-text-align: center;
-padding-top: 50px;
-padding-bottom: 50px;
+header {
+  background-color: #f5ece7;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
-h1, h2{
-font-family: 'Montserrat', sans-serif;
+h1,
+h2 {
+  font-family: "Montserrat", sans-serif;
 }
 
-header h1{
-color: #007198;
+header h1 {
+  color: #007198;
 
-font-size: 60px;
-margin-bottom: 0%;
-
+  font-size: 60px;
+  margin-bottom: 0%;
 }
 
-header img{
-border-radius: 180px;
-width: 300px;
-border: 10px solid white; 
+header img {
+  border-radius: 180px;
+  width: 300px;
+  border: 10px solid white;
 }
-main{
-max-width: 800px;
-margin: 0% auto;
-padding: 20 20px;
+main {
+  max-width: 800px;
+  margin: 0% auto;
+  padding: 20 20px;
 }
-main img{
-max-width: 100%;
-border-radius: 15px;
-}
-
-h2{
-font-size: 35px;
-color: #007198;
-margin: 40px 0 10px;
+main img {
+  max-width: 100%;
+  border-radius: 15px;
 }
 
-h3{
-font-size: 25px;
-color: #007198;
-margin: 40px 0 10px;
-
+h2 {
+  font-size: 35px;
+  color: #007198;
+  margin: 40px 0 10px;
 }
 
-p{
-color: #232323;
+h3 {
+  font-size: 25px;
+  color: #007198;
+  margin: 40px 0 10px;
 }
 
-a{
-color: #eb5445;
-}
-a:hover{
-color: #001850
+p {
+  color: #232323;
 }
 
-footer{
-text-align: center;
-font-family: 'Courier New', Courier, monospace;
-font-size: smaller;
-color: #b9c5d5;
-background-color: #f5ece7;
-padding: 50px;
-
+a {
+  color: #eb5445;
 }
-footer p{
-margin: 0;
-
-}
-footer a:hover{
-opacity: .5;
-background-color:transparent
+a:hover {
+  color: #001850;
 }
 
-p.caption{
-color:lightgray;
-font-style: italic;
-margin-top: 0%;
-
+footer {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: smaller;
+  color: #b9c5d5;
+  background-color: #f5ece7;
+  padding: 50px;
+}
+footer p {
+  margin: 0;
+}
+footer a:hover {
+  opacity: 0.5;
+  background-color: transparent;
 }
 
+p.caption {
+  color: lightgray;
+  font-style: italic;
+  margin-top: 0%;
+}
